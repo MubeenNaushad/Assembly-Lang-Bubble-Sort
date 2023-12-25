@@ -63,5 +63,4 @@ loop print
        
 exit:
 mov ah,4ch
-int 21h                             
-                             
+int 21h
